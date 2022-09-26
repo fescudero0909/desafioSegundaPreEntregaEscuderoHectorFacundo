@@ -1,0 +1,32 @@
+.navbar{
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    .nav-link{
+        color: whitesmoke;
+    }
+}
+
+
+.bg-color-nav{
+    background-color: rgb(104, 3, 15);
+}
+
+.carrito{
+    width: 45px;
+}
+
+.nav-icon-cart-quantity{
+    position: relative;
+    font-size: 15px;
+    color: whitesmoke;
+    top: auto;
+    bottom: 18px;
+    right: auto;
+    left: 4px;
+    
+}
+
+.imgProductoCarrito{
+    width: 80px;
+}

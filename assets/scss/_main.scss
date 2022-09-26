@@ -1,0 +1,28 @@
+
+.titulo{
+    font-size: 50px;
+}
+
+
+.tarjetaProducto{
+    padding: 5px;
+    margin: 5px;
+    .producto{
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 2px;
+        align-items: center;
+        font-size: 25px;
+        font-style: oblique;
+    }
+    .imgProducto{
+        border-radius: 15px;
+        box-shadow: rgba(0,0,0,0.50) 0px 5px 15px 0px;
+    }
+    .precio{
+        font-size: 30px;
+    }
+        
+}
+
+    
